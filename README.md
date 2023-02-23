@@ -1,5 +1,6 @@
 ### i'm cecília florentin silva!
-✧ high school student; ✧ html and css.
+✧ high school student currently learning; 
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flrntncecilia&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
